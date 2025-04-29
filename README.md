@@ -20,8 +20,8 @@ This project explores the use of deep learning models to predict NBA game outcom
 ## Project Files
 
 ```text
-DS6100 Final Code Update.ipynb   # Full pipeline: data prep, modeling, tuning, evaluation
-final_paper.pdf
+DS6060 Final Code Update.ipynb   # Full pipeline: data prep, modeling, tuning, evaluation
+group12_project_report.pdf
 README.md
 requirements.txt
 ```
@@ -30,7 +30,7 @@ requirements.txt
 
 ## Downloads (Large Files)
 
-All files are hosted externally due to GitHub's 25MB file limit. Some are available directly in the repo but all are available here for posterity.
+All relevant csv and .h5 files are hosted externally due to GitHub's 25MB file limit. All are available in the link below.
 
 - [Relevant files](https://drive.google.com/drive/folders/1iR8G5DNYTqL-EKp-sLve89Y1xEkXbjPz?usp=sharing)
 
