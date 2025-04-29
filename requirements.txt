@@ -1,0 +1,8 @@
+numpy==1.24.4
+matplotlib==3.7.2
+pandas
+scikit-learn
+xgboost
+tensorflow
+keras-tuner
+shap
